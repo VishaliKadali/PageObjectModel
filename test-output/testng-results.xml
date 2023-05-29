@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T14:29:37 IST" name="Default suite" finished-at="2023-05-24T14:29:58 IST" duration-ms="20607">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T14:29:37 IST" name="Default test" finished-at="2023-05-24T14:29:58 IST" duration-ms="20607">
+      <class name="org.testleaf.testcases.TC001_LoginPage">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:37 IST" name="startReport" finished-at="2023-05-24T14:29:37 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:37 IST" name="setData" finished-at="2023-05-24T14:29:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:37 IST" name="testDetails" finished-at="2023-05-24T14:29:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:39 IST" name="preCondition" finished-at="2023-05-24T14:29:50 IST" duration-ms="10523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:50 IST" name="runLogin" data-provider="fetchData" finished-at="2023-05-24T14:29:53 IST" duration-ms="3359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:53 IST" name="postCondition" finished-at="2023-05-24T14:29:53 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:53 IST" name="preCondition" finished-at="2023-05-24T14:29:56 IST" duration-ms="2811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:56 IST" name="runLogin" data-provider="fetchData" finished-at="2023-05-24T14:29:57 IST" duration-ms="1103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:57 IST" name="postCondition" finished-at="2023-05-24T14:29:58 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:org.testleaf.testcases.TC001_LoginPage@663c9e7a]" started-at="2023-05-24T14:29:58 IST" name="stopReport" finished-at="2023-05-24T14:29:58 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- org.testleaf.testcases.TC001_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
